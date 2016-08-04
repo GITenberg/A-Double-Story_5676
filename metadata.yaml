@@ -1,0 +1,37 @@
+_repo: A-Double-Story_5676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: Also published under title of "The Lost Princess"
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcc 'PR'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Princesses -- Juvenile fiction'
+- !lcsh 'Pride and vanity -- Juvenile fiction'
+- !lcsh 'Selfishness -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Women shepherds -- Juvenile fiction'
+- GITenberg
+title: A Double Story
+url: http://www.gutenberg.org/ebooks/5676
